@@ -1,0 +1,28 @@
+C:\Users\user\Desktop\c#_jp\bin\Debug\net10.0\c#_jp.exe
+C:\Users\user\Desktop\c#_jp\bin\Debug\net10.0\c#_jp.deps.json
+C:\Users\user\Desktop\c#_jp\bin\Debug\net10.0\c#_jp.runtimeconfig.json
+C:\Users\user\Desktop\c#_jp\bin\Debug\net10.0\c#_jp.dll
+C:\Users\user\Desktop\c#_jp\bin\Debug\net10.0\c#_jp.pdb
+C:\Users\user\Desktop\c#_jp\obj\Debug\net10.0\c#_jp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\c#_jp\obj\Debug\net10.0\c#_jp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\c#_jp\obj\Debug\net10.0\c#_jp.AssemblyInfo.cs
+C:\Users\user\Desktop\c#_jp\obj\Debug\net10.0\c#_jp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#_jp\obj\Debug\net10.0\c#_jp.dll
+C:\Users\user\Desktop\c#_jp\obj\Debug\net10.0\refint\c#_jp.dll
+C:\Users\user\Desktop\c#_jp\obj\Debug\net10.0\c#_jp.pdb
+C:\Users\user\Desktop\c#_jp\obj\Debug\net10.0\c#_jp.genruntimeconfig.cache
+C:\Users\user\Desktop\c#_jp\obj\Debug\net10.0\ref\c#_jp.dll
+C:\Users\user\Desktop\Jovem Programador\c#_jp\obj\Debug\net10.0\c#_jp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Jovem Programador\c#_jp\obj\Debug\net10.0\c#_jp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Jovem Programador\c#_jp\obj\Debug\net10.0\c#_jp.AssemblyInfo.cs
+C:\Users\user\Desktop\Jovem Programador\c#_jp\obj\Debug\net10.0\c#_jp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Jovem Programador\c#_jp\obj\Debug\net10.0\c#_jp.dll
+C:\Users\user\Desktop\Jovem Programador\c#_jp\obj\Debug\net10.0\refint\c#_jp.dll
+C:\Users\user\Desktop\Jovem Programador\c#_jp\obj\Debug\net10.0\c#_jp.pdb
+C:\Users\user\Desktop\Jovem Programador\c#_jp\bin\Debug\net10.0\c#_jp.exe
+C:\Users\user\Desktop\Jovem Programador\c#_jp\bin\Debug\net10.0\c#_jp.deps.json
+C:\Users\user\Desktop\Jovem Programador\c#_jp\bin\Debug\net10.0\c#_jp.runtimeconfig.json
+C:\Users\user\Desktop\Jovem Programador\c#_jp\bin\Debug\net10.0\c#_jp.dll
+C:\Users\user\Desktop\Jovem Programador\c#_jp\bin\Debug\net10.0\c#_jp.pdb
+C:\Users\user\Desktop\Jovem Programador\c#_jp\obj\Debug\net10.0\c#_jp.genruntimeconfig.cache
+C:\Users\user\Desktop\Jovem Programador\c#_jp\obj\Debug\net10.0\ref\c#_jp.dll

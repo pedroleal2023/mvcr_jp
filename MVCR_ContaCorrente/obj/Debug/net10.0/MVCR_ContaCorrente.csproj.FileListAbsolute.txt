@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Jovem Programador\MVCR_ContaCorrente\obj\Debug\net10.0\MVCR_ContaCorrente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Jovem Programador\MVCR_ContaCorrente\obj\Debug\net10.0\MVCR_ContaCorrente.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Jovem Programador\MVCR_ContaCorrente\obj\Debug\net10.0\MVCR_ContaCorrente.AssemblyInfo.cs
+C:\Users\user\Desktop\Jovem Programador\MVCR_ContaCorrente\obj\Debug\net10.0\MVCR_ContaCorrente.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Jovem Programador\MVCR_ContaCorrente\bin\Debug\net10.0\MVCR_ContaCorrente.exe
+C:\Users\user\Desktop\Jovem Programador\MVCR_ContaCorrente\bin\Debug\net10.0\MVCR_ContaCorrente.deps.json
+C:\Users\user\Desktop\Jovem Programador\MVCR_ContaCorrente\bin\Debug\net10.0\MVCR_ContaCorrente.runtimeconfig.json
+C:\Users\user\Desktop\Jovem Programador\MVCR_ContaCorrente\bin\Debug\net10.0\MVCR_ContaCorrente.dll
+C:\Users\user\Desktop\Jovem Programador\MVCR_ContaCorrente\bin\Debug\net10.0\MVCR_ContaCorrente.pdb
+C:\Users\user\Desktop\Jovem Programador\MVCR_ContaCorrente\obj\Debug\net10.0\MVCR_ContaCorrente.dll
+C:\Users\user\Desktop\Jovem Programador\MVCR_ContaCorrente\obj\Debug\net10.0\refint\MVCR_ContaCorrente.dll
+C:\Users\user\Desktop\Jovem Programador\MVCR_ContaCorrente\obj\Debug\net10.0\MVCR_ContaCorrente.pdb
+C:\Users\user\Desktop\Jovem Programador\MVCR_ContaCorrente\obj\Debug\net10.0\MVCR_ContaCorrente.genruntimeconfig.cache
+C:\Users\user\Desktop\Jovem Programador\MVCR_ContaCorrente\obj\Debug\net10.0\ref\MVCR_ContaCorrente.dll

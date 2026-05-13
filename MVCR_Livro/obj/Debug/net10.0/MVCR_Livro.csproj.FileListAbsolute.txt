@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Jovem Programador\MVCR_Livro\obj\Debug\net10.0\MVCR_Livro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Jovem Programador\MVCR_Livro\obj\Debug\net10.0\MVCR_Livro.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Jovem Programador\MVCR_Livro\obj\Debug\net10.0\MVCR_Livro.AssemblyInfo.cs
+C:\Users\user\Desktop\Jovem Programador\MVCR_Livro\obj\Debug\net10.0\MVCR_Livro.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Jovem Programador\MVCR_Livro\bin\Debug\net10.0\MVCR_Livro.exe
+C:\Users\user\Desktop\Jovem Programador\MVCR_Livro\bin\Debug\net10.0\MVCR_Livro.deps.json
+C:\Users\user\Desktop\Jovem Programador\MVCR_Livro\bin\Debug\net10.0\MVCR_Livro.runtimeconfig.json
+C:\Users\user\Desktop\Jovem Programador\MVCR_Livro\bin\Debug\net10.0\MVCR_Livro.dll
+C:\Users\user\Desktop\Jovem Programador\MVCR_Livro\bin\Debug\net10.0\MVCR_Livro.pdb
+C:\Users\user\Desktop\Jovem Programador\MVCR_Livro\obj\Debug\net10.0\MVCR_Livro.dll
+C:\Users\user\Desktop\Jovem Programador\MVCR_Livro\obj\Debug\net10.0\refint\MVCR_Livro.dll
+C:\Users\user\Desktop\Jovem Programador\MVCR_Livro\obj\Debug\net10.0\MVCR_Livro.pdb
+C:\Users\user\Desktop\Jovem Programador\MVCR_Livro\obj\Debug\net10.0\MVCR_Livro.genruntimeconfig.cache
+C:\Users\user\Desktop\Jovem Programador\MVCR_Livro\obj\Debug\net10.0\ref\MVCR_Livro.dll

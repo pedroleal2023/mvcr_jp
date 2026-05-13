@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Jovem Programador\MVCR_Carro\obj\Debug\net10.0\MVCR_Carro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Jovem Programador\MVCR_Carro\obj\Debug\net10.0\MVCR_Carro.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Jovem Programador\MVCR_Carro\obj\Debug\net10.0\MVCR_Carro.AssemblyInfo.cs
+C:\Users\user\Desktop\Jovem Programador\MVCR_Carro\obj\Debug\net10.0\MVCR_Carro.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Jovem Programador\MVCR_Carro\bin\Debug\net10.0\MVCR_Carro.exe
+C:\Users\user\Desktop\Jovem Programador\MVCR_Carro\bin\Debug\net10.0\MVCR_Carro.deps.json
+C:\Users\user\Desktop\Jovem Programador\MVCR_Carro\bin\Debug\net10.0\MVCR_Carro.runtimeconfig.json
+C:\Users\user\Desktop\Jovem Programador\MVCR_Carro\bin\Debug\net10.0\MVCR_Carro.dll
+C:\Users\user\Desktop\Jovem Programador\MVCR_Carro\bin\Debug\net10.0\MVCR_Carro.pdb
+C:\Users\user\Desktop\Jovem Programador\MVCR_Carro\obj\Debug\net10.0\MVCR_Carro.dll
+C:\Users\user\Desktop\Jovem Programador\MVCR_Carro\obj\Debug\net10.0\refint\MVCR_Carro.dll
+C:\Users\user\Desktop\Jovem Programador\MVCR_Carro\obj\Debug\net10.0\MVCR_Carro.pdb
+C:\Users\user\Desktop\Jovem Programador\MVCR_Carro\obj\Debug\net10.0\MVCR_Carro.genruntimeconfig.cache
+C:\Users\user\Desktop\Jovem Programador\MVCR_Carro\obj\Debug\net10.0\ref\MVCR_Carro.dll
