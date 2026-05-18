@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Jovem Programador\MVCR_Filme\obj\Debug\net10.0\MVCR_Filme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Jovem Programador\MVCR_Filme\obj\Debug\net10.0\MVCR_Filme.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Jovem Programador\MVCR_Filme\obj\Debug\net10.0\MVCR_Filme.AssemblyInfo.cs
+C:\Users\user\Desktop\Jovem Programador\MVCR_Filme\obj\Debug\net10.0\MVCR_Filme.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Jovem Programador\MVCR_Filme\obj\Debug\net10.0\MVCR_Filme.sourcelink.json
+C:\Users\user\Desktop\Jovem Programador\MVCR_Filme\bin\Debug\net10.0\MVCR_Filme.exe
+C:\Users\user\Desktop\Jovem Programador\MVCR_Filme\bin\Debug\net10.0\MVCR_Filme.deps.json
+C:\Users\user\Desktop\Jovem Programador\MVCR_Filme\bin\Debug\net10.0\MVCR_Filme.runtimeconfig.json
+C:\Users\user\Desktop\Jovem Programador\MVCR_Filme\bin\Debug\net10.0\MVCR_Filme.dll
+C:\Users\user\Desktop\Jovem Programador\MVCR_Filme\bin\Debug\net10.0\MVCR_Filme.pdb
+C:\Users\user\Desktop\Jovem Programador\MVCR_Filme\obj\Debug\net10.0\MVCR_Filme.dll
+C:\Users\user\Desktop\Jovem Programador\MVCR_Filme\obj\Debug\net10.0\refint\MVCR_Filme.dll
+C:\Users\user\Desktop\Jovem Programador\MVCR_Filme\obj\Debug\net10.0\MVCR_Filme.pdb
+C:\Users\user\Desktop\Jovem Programador\MVCR_Filme\obj\Debug\net10.0\MVCR_Filme.genruntimeconfig.cache
+C:\Users\user\Desktop\Jovem Programador\MVCR_Filme\obj\Debug\net10.0\ref\MVCR_Filme.dll
