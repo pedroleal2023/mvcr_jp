@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Jovem Programador\MVCR_Agendamento\obj\Debug\net10.0\MVCR_Agendamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Jovem Programador\MVCR_Agendamento\obj\Debug\net10.0\MVCR_Agendamento.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Jovem Programador\MVCR_Agendamento\obj\Debug\net10.0\MVCR_Agendamento.AssemblyInfo.cs
+C:\Users\user\Desktop\Jovem Programador\MVCR_Agendamento\obj\Debug\net10.0\MVCR_Agendamento.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Jovem Programador\MVCR_Agendamento\obj\Debug\net10.0\MVCR_Agendamento.sourcelink.json
+C:\Users\user\Desktop\Jovem Programador\MVCR_Agendamento\bin\Debug\net10.0\MVCR_Agendamento.exe
+C:\Users\user\Desktop\Jovem Programador\MVCR_Agendamento\bin\Debug\net10.0\MVCR_Agendamento.deps.json
+C:\Users\user\Desktop\Jovem Programador\MVCR_Agendamento\bin\Debug\net10.0\MVCR_Agendamento.runtimeconfig.json
+C:\Users\user\Desktop\Jovem Programador\MVCR_Agendamento\bin\Debug\net10.0\MVCR_Agendamento.dll
+C:\Users\user\Desktop\Jovem Programador\MVCR_Agendamento\bin\Debug\net10.0\MVCR_Agendamento.pdb
+C:\Users\user\Desktop\Jovem Programador\MVCR_Agendamento\obj\Debug\net10.0\MVCR_Agendamento.dll
+C:\Users\user\Desktop\Jovem Programador\MVCR_Agendamento\obj\Debug\net10.0\refint\MVCR_Agendamento.dll
+C:\Users\user\Desktop\Jovem Programador\MVCR_Agendamento\obj\Debug\net10.0\MVCR_Agendamento.pdb
+C:\Users\user\Desktop\Jovem Programador\MVCR_Agendamento\obj\Debug\net10.0\MVCR_Agendamento.genruntimeconfig.cache
+C:\Users\user\Desktop\Jovem Programador\MVCR_Agendamento\obj\Debug\net10.0\ref\MVCR_Agendamento.dll
