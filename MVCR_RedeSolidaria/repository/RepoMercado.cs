@@ -1,7 +1,7 @@
 using MySqlConnector;
 
-namespace std
-{
+namespace std;
+
     public class RepoMercado
     {
         static List<Mercado> mercado_db = [];
@@ -9,16 +9,14 @@ namespace std
 
         public static void InitConnection()
         {
-            string info = "server=localhost;database=rede_solidaria;user id=root;password=''";
+            string info = "server=localhost;database=rede_solidaria;user id=root;password='root'";
             conexao = new MySqlConnection(info);
 
-            try
-            {
+            try {
                 conexao.Open();
                 Console.WriteLine("- Conexão com o banco de dados estabelecida -");
             }
-            catch
-            {
+            catch (Exception e) {
                 Console.WriteLine("Conexão NÃO Estabelecida.");
             }
         }
@@ -134,4 +132,3 @@ namespace std
           conexao.Close();
         } 
     }
-}

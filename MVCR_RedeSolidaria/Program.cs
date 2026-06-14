@@ -2,8 +2,7 @@
 
 namespace std
 {
-    public class Program
-    {
+    public class Program {
         public static void Main()
         {
             ViewMercado.Sincronizar();
@@ -97,7 +96,7 @@ namespace std
                             Console.WriteLine("[3] - Deletar Mercado");
                             Console.WriteLine("[4] - Listar Beneficiários");
                             Console.WriteLine("[5] - Confirmar/Alterar Entrega");
-                            Console.WriteLine("[6] - Ver Histórico de Logs");
+                            Console.WriteLine("[6] - Ver Histórico de Solicitações");
                             Console.WriteLine("[7] - Ver Ranking de Solidariedade");
                             Console.WriteLine("[8] - Voltar ao Menu Anterior");
                             op_admin = int.Parse(Console.ReadLine());

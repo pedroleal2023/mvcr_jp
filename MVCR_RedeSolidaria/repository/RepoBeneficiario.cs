@@ -1,7 +1,6 @@
 using MySqlConnector;
 
-namespace std
-{
+namespace std;
     public class RepoBeneficiario
     {
         static List<Beneficiario> beneficiario_db = [];
@@ -9,7 +8,7 @@ namespace std
 
         public static void InitConnection()
         {
-            string info = "server=localhost;database=rede_solidaria;user id=root;password=''";
+            string info = "server=localhost;database=rede_solidaria;user id=root;password='root'";
             conexao = new MySqlConnection(info);
 
             try
@@ -140,4 +139,3 @@ namespace std
             conexao.Close();
         } 
     }
-}

@@ -1,7 +1,6 @@
 using MySqlConnector;
 
-namespace std
-{
+namespace std;
     public class RepoCesta
     {
         // Lista static que serve como a cópia do banco em memória
@@ -10,7 +9,7 @@ namespace std
 
         public static void InitConnection()
         {
-            string info = "server=localhost;database=rede_solidaria;user id=root;password=''";
+            string info = "server=localhost;database=rede_solidaria;user id=root;password='root'";
             conexao = new MySqlConnection(info);
 
             try
@@ -122,9 +121,7 @@ namespace std
             CloseConnection();
         }
 
-        /*
         
-        // Método extra pra Controller atualizar o status (ex: de DISPONIVEL para RESERVADA)
         public static void AtualizarStatus(int index, string novoStatus)
         {
             InitConnection();
@@ -141,11 +138,10 @@ namespace std
             }   
             CloseConnection();
         }
-        */
+        
         
         public static void CloseConnection()
         {
             conexao.Close();
         } 
     }
-}

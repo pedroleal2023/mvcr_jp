@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVCR_RedeSolidaria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1b0338921dc281dbb90119c9f0f7c4c8c9710bb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98eb2914e3641396853dd0400fcf06613c523df3")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVCR_RedeSolidaria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVCR_RedeSolidaria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

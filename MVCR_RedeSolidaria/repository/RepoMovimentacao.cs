@@ -1,7 +1,6 @@
 using MySqlConnector;
 
-namespace std
-{
+namespace std;
     public class RepoMovimentacao
     {
         static List<Movimentacao> movimentacao_db = [];
@@ -9,7 +8,7 @@ namespace std
 
         public static void InitConnection()
         {
-            string info = "server=localhost;database=rede_solidaria;user id=root;password=''";
+            string info = "server=localhost;database=rede_solidaria;user id=root;password='root'";
             conexao = new MySqlConnection(info);
 
             try
@@ -26,7 +25,6 @@ namespace std
         public static void Sincronizar()
         {
             InitConnection();
-            movimentacao_db.Clear(); // Limpa a lista antes de sincronizar para não duplicar dados
             string query = "select * from Movimentacao";
             MySqlCommand command = new MySqlCommand(query, conexao);
             MySqlDataReader reader = command.ExecuteReader();
@@ -85,4 +83,3 @@ namespace std
             conexao.Close();
         } 
     }
-}
