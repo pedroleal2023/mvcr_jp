@@ -9,7 +9,7 @@ namespace std;
 
         public static void Criar()
         {
-            Console.WriteLine("Digite o nome fantasia do mercado:");
+            Console.WriteLine("Digite o Nome Fantasia do mercado:");
             string nomeFantasia = Console.ReadLine();
 
             Console.WriteLine("Digite o CNPJ do mercado:");
@@ -35,7 +35,7 @@ namespace std;
             Console.WriteLine("Digite o índice do mercado a ser alterado:");
             int index = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Digite o novo nome fantasia para alterar:");
+            Console.WriteLine("Digite o novo Nome Fantasia para alterar:");
             string nomeFantasia = Console.ReadLine();
 
             Console.WriteLine("Digite o novo telefone para alterar:");

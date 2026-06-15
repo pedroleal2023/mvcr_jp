@@ -11,16 +11,16 @@ namespace std
 
         public static void Criar()
         {
-            Console.WriteLine("Digite o índice do mercado doador da cesta:");
+            Console.WriteLine("Digite o índice do Mercado Doador:");
             int indexMercado = int.Parse(Console.ReadLine());
 
             Mercado mercadoSelecionado = ControllerMercado.Listar()[indexMercado];
             int idMercado = mercadoSelecionado.IdMercado;
 
-            Console.WriteLine("Digite a descrição da cesta:");
+            Console.WriteLine("Digite a descrição da Cesta:");
             string descricao = Console.ReadLine();
 
-            Console.WriteLine("Digite a quantidade de itens na cesta:");
+            Console.WriteLine("Digite a quantidade de itens na Cesta [15 / 20 / 25]:");
             int quantidadeItens = int.Parse(Console.ReadLine());
 
             ControllerCesta.Criar(idMercado, descricao, quantidadeItens);
@@ -28,10 +28,10 @@ namespace std
 
         public static void Alterar()
         {
-            Console.WriteLine("Digite o índice da cesta a ser alterada:");
+            Console.WriteLine("Digite o índice da Cesta a ser alterada:");
             int index = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Digite a nova descrição da cesta:");
+            Console.WriteLine("Digite a descrição da Cesta:");
             string descricao = Console.ReadLine();
 
             Console.WriteLine("Digite a nova quantidade de itens:");
@@ -42,7 +42,7 @@ namespace std
 
         public static void Deletar()
         {
-            Console.WriteLine("Digite o índice da cesta a ser deletada:");
+            Console.WriteLine("Digite o índice da Cesta a ser deletada:");
             int index = int.Parse(Console.ReadLine());
 
             ControllerCesta.Deletar(index);

@@ -20,7 +20,7 @@ namespace std;
             Console.WriteLine("Digite o CPF do beneficiário:");
             string cpf = Console.ReadLine();
 
-            Console.WriteLine("Digite o NIS do beneficiário:");
+            Console.WriteLine("Digite o NIS(CadÚnico) do beneficiário:");
             string nis = Console.ReadLine(); 
             
             Console.WriteLine("Digite o telefone do beneficiário:");

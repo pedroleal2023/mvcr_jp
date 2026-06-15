@@ -8,7 +8,7 @@ namespace std;
 
         public static void Criar()
         {
-            Console.WriteLine("Digite o índice da cesta na lista:");
+            Console.WriteLine("Digite o índice da Cesta:");
             int indexCesta = int.Parse(Console.ReadLine());
 
             Cesta cestaSelecionada = ControllerCesta.Listar()[indexCesta];
